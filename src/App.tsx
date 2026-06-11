@@ -324,7 +324,7 @@ export default function App() {
           </div>
           <div>
             <h1 className="font-bold text-gray-100 text-lg md:text-xl font-display tracking-tight flex items-center gap-2">
-              <span>{isAr ? "بيئة بايثون التفاعلية بالذكاء الاصطناعي" : "Ultimate Python AI IDE"}</span>
+              <span>{isAr ? "تعلم بايثون بمساعده SsS-Ai" : "Learn Python with SsS-AI"}</span>
               <span className="text-[11px] font-mono bg-[#143d25] border border-[#30f28a]/30 px-2 py-0.5 rounded-full text-[#30f28a] uppercase tracking-widest hidden md:inline">WASM Engine</span>
             </h1>
             <p className="text-xs text-gray-400 hidden sm:block">

@@ -1,5 +1,5 @@
 {
-  "name": "Python Playground & AI Tutor",
+  "name": "تعلم بايثون بمساعده SsS-Ai",
   "description": "An interactive, browser-based Python IDE and learning platform featuring live execution, real-time testing, visual algorithms, and an AI-powered tutor.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
